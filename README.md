@@ -1,5 +1,5 @@
-## Olá! Eu Sou o Vinicius Pagote 👋
-
+<h1 align="center">Olá! Eu sou o Desenvolvedor Olap 👋</h1>
+<h3 align="center">Apaixonado por ciência e alálise de dados</h3>
 ...
 <h3>Habilidades Técnicas:</h3>
 <div style="display: inline_block"><br>
