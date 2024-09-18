@@ -1,6 +1,8 @@
 <h1 align="center">Olá! Eu sou o Desenvolvedor Olap 👋</h1>
 <h3 align="center">Apaixonado por ciência e alálise de dados</h3>
-...
+
+Com 7 anos de experiência, atuo no mercado de dados, sempre me adaptando aos desafios e evoluindo com as principais ferramentas, como Power BI, MicroStrategy, Databricks e Pacote Office.
+
 <h3>Habilidades Técnicas:</h3>
 <div style="display: inline_block"><br>
   <img align="center" alt="Vini-PowerBI" height="30" width="25" src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png" />
