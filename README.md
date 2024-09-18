@@ -3,6 +3,8 @@
 
 Com 7 anos de experiência, atuo no mercado de dados, sempre me adaptando aos desafios e evoluindo com as principais ferramentas, como Power BI, MicroStrategy, Databricks e Pacote Office.
 
+Curriculo/Portifolio: viniciuspagote.github.io/portfolio
+
 <h3>Habilidades Técnicas:</h3>
 <div style="display: inline_block"><br>
   <img align="center" alt="Vini-PowerBI" height="30" width="25" src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png" />
