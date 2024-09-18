@@ -1,7 +1,7 @@
 ## Olá! Eu Sou o Vinicius Pagote 👋
 
 ...
-
+<h3>Habilidades Técnicas:</h3>
 <div style="display: inline_block"><br>
   <img align="center" alt="Vini-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Spark" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" />
@@ -10,6 +10,15 @@
   <img align="center" alt="Vini-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
   
+  ##
+  
+<h3>Bagdes Certificações:</h3>
+<div>
+  <img align="center" alt="Vini-CSS" height="100" width="105" src="https://templates.images.credential.net/16673973909619016633457283696747.png"/>
+  <img align="center" alt="Vini-CSS" height="100" width="105" src="https://templates.images.credential.net/16673987859842744977930091770866.png"/> 
+  
+</div>
+
   ##
  
 <div> 
