@@ -25,18 +25,18 @@ Curriculo/Portifolio: https://viniciuspagote.github.io/portfolio/
   <img align="center" alt="Vini-MSTR-Project-Architect" height="100" width="105" src="https://templates.images.credential.net/16673987859842744977930091770866.png"/> 
  
   <!-- DATABRICKS -->
-  <img align="center" alt="Vini-Databricks-Data-&-AI" height="100" width="95" src="https://templates.images.credential.net/16998887684483729512013378950968.png"/> 
-  <img align="center" alt="Vini-Databricks-EDW-ETL-Migration" height="100" width="95" src="https://templates.images.credential.net/17234416767482163613331453383897.png"/> 
+  <!-- OK --> <img align="center" alt="Vini-Databricks-Data-&-AI" height="100" width="95" src="https://templates.images.credential.net/16998887684483729512013378950968.png"/> 
+  <!-- OK --> <img align="center" alt="Vini-Databricks-EDW-ETL-Migration" height="100" width="95" src="https://templates.images.credential.net/17234416767482163613331453383897.png"/> 
   <!-- <img align="center" alt="Partner Training - Spark Migration" height="100" width="95" src="https://templates.images.credential.net/16962567203555310153951704515037.png"/> -->
-  <img align="center" alt="Partner Training - Data & AI Governance with Unity Catalog" height="100" width="95" src="https://templates.images.credential.net/16995540066353245510658172296133.png"/>
-  <img align="center" alt="Partner Training - Advantages of Data & AI GovernancePartner Training - Advantages of Data & AI Governance" height="100" width="100" src="https://templates.images.credential.net/17103466893478873584840314430893.png"/>
-  <img align="center" alt="Partner Training - Advantages of Gen AI & LLM on Databricks" height="100" width="100" src="https://templates.images.credential.net/17163228837192973624664160353158.png"/>
-  <img align="center" alt="Partner Training - Data Intelligence Platform Whiteboard" height="100" width="100" src="https://templates.images.credential.net/17056981249700054919399448246802.png"/>
-  <img align="center" alt="Partner Training - Advantages of Azure Databricks & Microsoft Fabric" height="100" width="100" src="https://templates.images.credential.net/17109442208252697545205037826785.png"/>
-  <img align="center" alt="Partner Training - Advantages of Data & AI GovernancePartner Training - Advantages of Data & AI Governance" height="100" width="100" src="https://templates.images.credential.net/17103466893478873584840314430893.png"/>
-  <img align="center" alt="Partner Training - Data & AI Governance with Unity Catalog (Verified)" height="100" width="125" src="https://templates.images.credential.net/17002471942629199264593338486123.png"/>
+  <!--  <img align="center" alt="Partner Training - Data & AI Governance with Unity Catalog" height="100" width="95" src="https://templates.images.credential.net/16995540066353245510658172296133.png"/> -->
+  <!-- <img align="center" alt="Partner Training - Advantages of Data & AI GovernancePartner Training - Advantages of Data & AI Governance" height="100" width="100" src="https://templates.images.credential.net/17103466893478873584840314430893.png"/> -->
+  <!-- <img align="center" alt="Partner Training - Advantages of Gen AI & LLM on Databricks" height="100" width="100" src="https://templates.images.credential.net/17163228837192973624664160353158.png"/>
+  <!-- OK --> <img align="center" alt="Partner Training - Data Intelligence Platform Whiteboard" height="100" width="100" src="https://templates.images.credential.net/17056981249700054919399448246802.png"/>
+  <!-- <img align="center" alt="Partner Training - Advantages of Azure Databricks & Microsoft Fabric" height="100" width="100" src="https://templates.images.credential.net/17109442208252697545205037826785.png"/>-->
+  <!-- <img align="center" alt="Partner Training - Advantages of Data & AI GovernancePartner Training - Advantages of Data & AI Governance" height="100" width="100" src="https://templates.images.credential.net/17103466893478873584840314430893.png"/>-->
+  <!-- OK -->  <img align="center" alt="Partner Training - Data & AI Governance with Unity Catalog (Verified)" height="100" width="125" src="https://templates.images.credential.net/17002471942629199264593338486123.png"/>
   <!--  <img align="center" alt="Partner Training - Cloud Native SPARK Migration (Verified)" height="100" width="125" src="https://templates.images.credential.net/16972237521372597625490368853850.png"/> -->
-  <img align="center" alt="Vini-Databricks-Generative-AI-Fundamentals" height="100" width="95" src="https://templates.images.credential.net/16859822715825555912981627624259.png"/>
+  <!-- OK --> <img align="center" alt="Vini-Databricks-Generative-AI-Fundamentals" height="100" width="95" src="https://templates.images.credential.net/16859822715825555912981627624259.png"/>
 <!--<img align="center" alt="Vini-Databricks-Fundamentals" height="115" width="95" src="https://templates.images.credential.net/1706553228549411657404043064415.png"/>-->
 
   
