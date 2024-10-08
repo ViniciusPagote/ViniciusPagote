@@ -1,5 +1,5 @@
 <h1 align="center">Olá! Eu sou o Desenvolvedor Olap 👋</h1>
-<h3 align="center">Apaixonado por ciência e alálise de dados</h3>
+<h3 align="center">Apaixonado por ciência e análise de dados</h3>
 
 Com 7 anos de experiência, atuo no mercado de dados, sempre me adaptando aos desafios e evoluindo com as principais ferramentas, como Power BI, MicroStrategy, Databricks e Pacote Office.
 
