@@ -39,6 +39,9 @@ Curriculo/Portifolio: https://viniciuspagote.github.io/portfolio/
   <!-- OK --> <img align="center" alt="Vini-Databricks-Generative-AI-Fundamentals" height="100" width="95" src="https://templates.images.credential.net/16859822715825555912981627624259.png"/>
 <!--<img align="center" alt="Vini-Databricks-Fundamentals" height="115" width="95" src="https://templates.images.credential.net/1706553228549411657404043064415.png"/>-->
 
+<!-- -->
+<img align="center" alt="Lifelong Learning" height="100" width="100" src="https://images.credly.com/size/680x680/images/f5cf37e4-6ebd-4067-96a9-b26d04f51ff7/CertiProf-Badge-LLL.png"/>
+
   
 </div>
 
