@@ -23,7 +23,7 @@ Curriculo/Portifolio: https://viniciuspagote.github.io/portfolio/
   <!-- MICROSTRATEGY -->
   <img align="center" alt="Vini-MSTR-Administrator" height="100" width="105" src="https://templates.images.credential.net/16673973909619016633457283696747.png"/>
   <img align="center" alt="Vini-MSTR-Project-Architect" height="100" width="105" src="https://templates.images.credential.net/16673987859842744977930091770866.png"/> 
- 
+
   <!-- DATABRICKS -->
   <!-- OK --> <img align="center" alt="Vini-Databricks-Data-&-AI" height="100" width="95" src="https://templates.images.credential.net/16998887684483729512013378950968.png"/> 
   <!-- OK --> <img align="center" alt="Vini-Databricks-EDW-ETL-Migration" height="100" width="95" src="https://templates.images.credential.net/17234416767482163613331453383897.png"/> 
@@ -38,10 +38,11 @@ Curriculo/Portifolio: https://viniciuspagote.github.io/portfolio/
   <!--  <img align="center" alt="Partner Training - Cloud Native SPARK Migration (Verified)" height="100" width="125" src="https://templates.images.credential.net/16972237521372597625490368853850.png"/> -->
   <!-- OK --> <img align="center" alt="Vini-Databricks-Generative-AI-Fundamentals" height="100" width="95" src="https://templates.images.credential.net/16859822715825555912981627624259.png"/>
 <!--<img align="center" alt="Vini-Databricks-Fundamentals" height="115" width="95" src="https://templates.images.credential.net/1706553228549411657404043064415.png"/>-->
-
+<br> 
 <!-- certiprof -->
 <img align="center" alt="Lifelong Learning" height="100" width="100" src="https://images.credly.com/size/680x680/images/f5cf37e4-6ebd-4067-96a9-b26d04f51ff7/CertiProf-Badge-LLL.png"/>
 <img align="center" alt="Scrum Foundation Professional Certification - SFPC" height="108" width="108" src="https://images.credly.com/size/680x680/images/b1bc1abc-c04c-4b80-b3b8-eb13f521eb60/blob"/>
+<img align="center" alt="Design Sprint Professional Certification - DSPC" height="108" width="108" src="https://images.credly.com/size/680x680/images/ecaf2326-d800-4d50-8dd1-2a9f4d05850a/blob"/>
 
   
 </div>
