@@ -40,9 +40,11 @@ Curriculo/Portifolio: https://viniciuspagote.github.io/portfolio/
 <!--<img align="center" alt="Vini-Databricks-Fundamentals" height="115" width="95" src="https://templates.images.credential.net/1706553228549411657404043064415.png"/>-->
 <br> 
 <!-- certiprof -->
-<img align="center" alt="Lifelong Learning" height="100" width="100" src="https://images.credly.com/size/680x680/images/f5cf37e4-6ebd-4067-96a9-b26d04f51ff7/CertiProf-Badge-LLL.png"/>
+<img align="center" alt="Lifelong Learning" height="108" width="108" src="https://images.credly.com/size/680x680/images/21e16d4d-d2df-46e6-9098-526caab49e63/blob"/>
 <img align="center" alt="Scrum Foundation Professional Certification - SFPC" height="108" width="108" src="https://images.credly.com/size/680x680/images/b1bc1abc-c04c-4b80-b3b8-eb13f521eb60/blob"/>
 <img align="center" alt="Design Sprint Professional Certification - DSPC" height="108" width="108" src="https://images.credly.com/size/680x680/images/ecaf2326-d800-4d50-8dd1-2a9f4d05850a/blob"/>
+
+
 
   
 </div>
